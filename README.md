@@ -1,2 +1,3 @@
 # repositpory
-this is my git repository
+this is my git repository.
+Author -MahNooor
